@@ -1,7 +1,7 @@
 <!-- ===================== BANNER IMAGE ===================== -->
 <p align="center">
   <!-- Replace the src with your uploaded banner image path -->
-  <img src="./assets/banner.png" alt="Jobayer Hossen Banner" />
+  <img src="./assets//banner.png" alt="Jobayer Hossen Banner" />
 </p>
 
 <!-- ===================== NAME & ROLE ===================== -->
